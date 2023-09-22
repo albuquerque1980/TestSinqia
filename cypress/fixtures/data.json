@@ -1,0 +1,17 @@
+[
+  {
+    "consulta": "Consulta por Brasil - Resultado Ok",
+    "textoConsulta": "Brasil",
+    "msgRetornoConsulta": "Resultados da busca por: Brasil"
+  },
+  {
+    "consulta": "Consulta por valor nulo",
+    "textoConsulta": "",
+    "msgRetornoConsulta": "Resultados da busca por: "
+  },
+  {
+    "consulta": "Consulta por Brasi1 - Resultado NOk",
+    "textoConsulta": "Brasi1",
+    "msgRetornoConsulta": "Nenhum resultado"
+  }
+]
